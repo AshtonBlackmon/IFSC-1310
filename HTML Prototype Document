@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- The language of the document is English -->
+<head>
+    <!-- The head section contains meta-information about the document -->
+    <meta charset="UTF-8">
+    <!-- The character encoding is UTF-8 -->
+    <title>Michael Jordan</title>
+    <!-- The title of the document -->
+    <meta name="description" content="Description of the page">
+    <!-- Description of the page -->
+    <meta name="author" content="Author Name">
+    <!-- Author of the page -->
+</head>
+<body>
+    <!-- The body section contains the content of the document -->
+    <main>
+        <!-- The main content of the document -->
+        <header>
+            <!-- The header of the document -->
+            <h1>Points</h1>
+        </header>
+        <section id="content">
+            <!-- A section of the document with id "content" -->
+            <h2>Most points in a game</h2>
+            <p><strong>He scored 61 points</strong> and <em>He scored 38 points with the flu</em>.</p>
+            <!-- An ordered list -->
+            <ol>
+                <li>Points</li>
+                <li>Assists</li>
+            </ol>
+            <!-- An unordered list -->
+            <ul>
+                <li>6 rings</li>
+                <li>13 playoff apperences</li>
+            </ul>
+            <!-- A definition list -->
+            <dl>
+                <dt>GOAT</dt>
+                <dd>Greatest Player of All Time</dd>
+            </dl>
+            <!-- A quote -->
+            <blockquote cite="source">
+                "I can accept failure, everyone fails at something. But I can't accept not trying. "
+            </blockquote>
+            <!-- A table -->
+            <table>
+                <caption>MJ vs Kobe</caption>
+                <tr>
+                    <th scope="col">Michael Jordan</th>
+                    <th scope="col">Kobe Bryant</th>
+                </tr>
+                <tr>
+                    <td>The most points he had was 61</td>
+                    <td>The most points he scored was 60</td>
+                </tr>
+            </table>
+            <!-- An image -->
+            <img src="https://tse1.mm.bing.net/th?id=OIP.Y1nonkmgebTF0cdQKY66egHaFh&pid=Api&P=0&h=220" alt="Game Winning Shot">
+        </section>
+        <nav>
+            <!-- Navigation links -->
+            <ul>
+                <li><a href="index.html" title="Home">Home</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/University_of_Arkansas_at_Little_Rock" title="About">About</a></li>
+                <li><a href="UALR.html" target="_blank" title="UALR">UALR</a></li>
+                <li><a href="mailto:example@example.com" title="Contact">Contact</a></li>
+            </ul>
+        </nav>
+        <footer>
+            <!-- The footer of the document -->
+            <h6>&copy; 2024 Your Name <a href="mailto:your-aablackmon@ualr.edu">Email Me</a> <a href="#top">Back to Top</a></h6>
+        </footer>
+    </main>
+</body>
+</html>
